@@ -1,206 +1,152 @@
 [
   {
     "tanggal": "2026-01-01",
-    "nama_perayaan": "Tahun Baru Masehi",
+    "nama_perayaan": "Tahun Baru 2026 Masehi",
     "jenis": "Libur Nasional",
-    "keterangan": "Pergantian tahun kalender Masehi."
-  },
-  {
-    "tanggal": "2026-01-03",
-    "nama_perayaan": "Hari Amal Bhakti Kementerian Agama",
-    "jenis": "Peringatan Nasional",
-    "keterangan": "Memperingati berdirinya Kementerian Agama Indonesia."
+    "keterangan": "Pergantian tahun masehi."
   },
   {
     "tanggal": "2026-01-16",
-    "nama_perayaan": "Isra Mi’raj Nabi Muhammad SAW",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Perjalanan spiritual Nabi Muhammad SAW."
+    "nama_perayaan": "Isra Mikraj Nabi Muhammad SAW",
+    "jenis": "Libur Nasional",
+    "keterangan": "Peringatan perjalanan suci Nabi Muhammad SAW."
   },
   {
-    "tanggal": "2026-02-04",
-    "nama_perayaan": "Hari Kanker Sedunia",
-    "jenis": "Hari Internasional",
-    "keterangan": "Kampanye global meningkatkan kesadaran kanker."
-  },
-  {
-    "tanggal": "2026-02-09",
-    "nama_perayaan": "Hari Pers Nasional",
-    "jenis": "Peringatan Nasional",
-    "keterangan": "Mengapresiasi peran pers di Indonesia."
-  },
-  {
-    "tanggal": "2026-02-14",
-    "nama_perayaan": "Hari Valentine",
-    "jenis": "Hari Internasional / Umum",
-    "keterangan": "Hari kasih sayang yang diperingati luas."
+    "tanggal": "2026-02-16",
+    "nama_perayaan": "Cuti Bersama Tahun Baru Imlek",
+    "jenis": "Cuti Bersama",
+    "keterangan": "Cuti bersama Tahun Baru Imlek 2577 Kongzili."
   },
   {
     "tanggal": "2026-02-17",
-    "nama_perayaan": "Tahun Baru Imlek",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Perayaan Tahun Baru Imlek."
+    "nama_perayaan": "Tahun Baru Imlek 2577 Kongzili",
+    "jenis": "Libur Nasional",
+    "keterangan": "Perayaan tahun baru warga Tionghoa."
   },
   {
-    "tanggal": "2026-03-08",
-    "nama_perayaan": "Hari Perempuan Internasional",
-    "jenis": "Hari Internasional",
-    "keterangan": "Mengakui pencapaian perempuan di berbagai bidang."
+    "tanggal": "2026-03-18",
+    "nama_perayaan": "Cuti Bersama Hari Suci Nyepi",
+    "jenis": "Cuti Bersama",
+    "keterangan": "Cuti bersama Hari Suci Nyepi Tahun Baru Saka 1948."
   },
   {
     "tanggal": "2026-03-19",
-    "nama_perayaan": "Hari Raya Nyepi",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Hari suci umat Hindu."
+    "nama_perayaan": "Hari Suci Nyepi (Tahun Baru Saka 1948)",
+    "jenis": "Libur Nasional",
+    "keterangan": "Hari raya umat Hindu."
+  },
+  {
+    "tanggal": "2026-03-20",
+    "nama_perayaan": "Cuti Bersama Hari Raya Idul Fitri",
+    "jenis": "Cuti Bersama",
+    "keterangan": "Cuti bersama menjelang Lebaran."
   },
   {
     "tanggal": "2026-03-21",
-    "nama_perayaan": "Hari Raya Idul Fitri (Hari 1)",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Hari kemenangan umat Islam setelah Ramadan."
+    "nama_perayaan": "Hari Raya Idul Fitri 1447 H (Hari 1)",
+    "jenis": "Libur Nasional",
+    "keterangan": "Hari kemenangan umat Islam."
   },
   {
     "tanggal": "2026-03-22",
-    "nama_perayaan": "Hari Raya Idul Fitri (Hari 2)",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Lanjutan perayaan Idul Fitri."
+    "nama_perayaan": "Hari Raya Idul Fitri 1447 H (Hari 2)",
+    "jenis": "Libur Nasional",
+    "keterangan": "Lanjutan perayaan Lebaran."
   },
   {
-    "tanggal": "2026-03-22",
-    "nama_perayaan": "Hari Air Sedunia",
-    "jenis": "Hari Internasional",
-    "keterangan": "World Water Day, fokus pada pentingnya air bersih."
+    "tanggal": "2026-03-23",
+    "nama_perayaan": "Cuti Bersama Hari Raya Idul Fitri",
+    "jenis": "Cuti Bersama",
+    "keterangan": "Cuti bersama pasca Lebaran."
+  },
+  {
+    "tanggal": "2026-03-24",
+    "nama_perayaan": "Cuti Bersama Hari Raya Idul Fitri",
+    "jenis": "Cuti Bersama",
+    "keterangan": "Cuti bersama pasca Lebaran."
   },
   {
     "tanggal": "2026-04-03",
     "nama_perayaan": "Wafat Yesus Kristus",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Hari memperingati wafat Kristus."
+    "jenis": "Libur Nasional",
+    "keterangan": "Peringatan keagamaan umat Kristen & Katolik."
   },
   {
     "tanggal": "2026-04-05",
     "nama_perayaan": "Hari Paskah",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Hari Kebangkitan Yesus Kristus."
-  },
-  {
-    "tanggal": "2026-04-07",
-    "nama_perayaan": "Hari Kesehatan Dunia",
-    "jenis": "Hari Internasional",
-    "keterangan": "World Health Day — kampanye kesehatan global."
-  },
-  {
-    "tanggal": "2026-04-22",
-    "nama_perayaan": "Hari Bumi",
-    "jenis": "Hari Internasional",
-    "keterangan": "Earth Day — dukungan perlindungan lingkungan."
-  },
-  {
-    "tanggal": "2026-04-23",
-    "nama_perayaan": "Hari Buku Sedunia",
-    "jenis": "Hari Internasional",
-    "keterangan": "World Book & Copyright Day."
+    "jenis": "Libur Nasional",
+    "keterangan": "Peringatan Kebangkitan Yesus Kristus."
   },
   {
     "tanggal": "2026-05-01",
     "nama_perayaan": "Hari Buruh Internasional",
-    "jenis": "Libur Nasional / Internasional",
-    "keterangan": "Peringatan hak dan kontribusi pekerja."
-  },
-  {
-    "tanggal": "2026-05-02",
-    "nama_perayaan": "Hari Pendidikan Nasional",
-    "jenis": "Peringatan Nasional",
-    "keterangan": "Menghormati jasa Ki Hajar Dewantara."
-  },
-  {
-    "tanggal": "2026-05-17",
-    "nama_perayaan": "Hari Buku Nasional",
-    "jenis": "Peringatan Nasional",
-    "keterangan": "Meningkatkan minat baca masyarakat."
-  },
-  {
-    "tanggal": "2026-05-20",
-    "nama_perayaan": "Hari Kebangkitan Nasional",
-    "jenis": "Peringatan Nasional",
-    "keterangan": "Mengenang berdirinya Budi Utomo."
+    "jenis": "Libur Nasional",
+    "keterangan": "Peringatan May Day."
   },
   {
     "tanggal": "2026-05-14",
     "nama_perayaan": "Kenaikan Yesus Kristus",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Kenaikan Yesus Kristus ke surga."
+    "jenis": "Libur Nasional",
+    "keterangan": "Peringatan kenaikan Yesus ke surga."
+  },
+  {
+    "tanggal": "2026-05-15",
+    "nama_perayaan": "Cuti Bersama Kenaikan Yesus Kristus",
+    "jenis": "Cuti Bersama",
+    "keterangan": "Cuti bersama hari keagamaan."
   },
   {
     "tanggal": "2026-05-27",
-    "nama_perayaan": "Hari Raya Idul Adha",
-    "jenis": "Libur Nasional (Keagamaan)",
+    "nama_perayaan": "Hari Raya Idul Adha 1447 Hijriah",
+    "jenis": "Libur Nasional",
     "keterangan": "Hari Raya Kurban umat Islam."
   },
   {
+    "tanggal": "2026-05-28",
+    "nama_perayaan": "Cuti Bersama Idul Adha 1447 Hijriah",
+    "jenis": "Cuti Bersama",
+    "keterangan": "Cuti bersama hari raya kurban."
+  },
+  {
     "tanggal": "2026-05-31",
-    "nama_perayaan": "Hari Waisak",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Hari suci umat Buddha."
+    "nama_perayaan": "Hari Raya Waisak 2570 BE",
+    "jenis": "Libur Nasional",
+    "keterangan": "Hari raya suci umat Buddha."
   },
   {
     "tanggal": "2026-06-01",
     "nama_perayaan": "Hari Lahir Pancasila",
     "jenis": "Libur Nasional",
-    "keterangan": "Peringatan lahirnya dasar negara."
-  },
-  {
-    "tanggal": "2026-06-05",
-    "nama_perayaan": "Hari Lingkungan Hidup Sedunia",
-    "jenis": "Hari Internasional",
-    "keterangan": "World Environment Day — aksi perlindungan lingkungan."
-  },
-  {
-    "tanggal": "2026-06-08",
-    "nama_perayaan": "Hari Laut Sedunia",
-    "jenis": "Hari Internasional",
-    "keterangan": "World Oceans Day."
+    "keterangan": "Peringatan hari lahirnya ideologi negara."
   },
   {
     "tanggal": "2026-06-16",
-    "nama_perayaan": "Tahun Baru Islam",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "1 Muharram — pergantian tahun Hijriyah."
+    "nama_perayaan": "Tahun Baru Islam 1448 Hijriah",
+    "jenis": "Libur Nasional",
+    "keterangan": "1 Muharram 1448 Hijriah."
   },
   {
     "tanggal": "2026-08-17",
-    "nama_perayaan": "Hari Kemerdekaan RI",
+    "nama_perayaan": "Hari Kemerdekaan RI ke-81",
     "jenis": "Libur Nasional",
-    "keterangan": "Peringatan Proklamasi Kemerdekaan Indonesia."
+    "keterangan": "Proklamasi Kemerdekaan Republik Indonesia."
   },
   {
     "tanggal": "2026-08-25",
     "nama_perayaan": "Maulid Nabi Muhammad SAW",
-    "jenis": "Libur Nasional (Keagamaan)",
+    "jenis": "Libur Nasional",
     "keterangan": "Peringatan hari lahir Nabi Muhammad SAW."
   },
   {
-    "tanggal": "2026-11-10",
-    "nama_perayaan": "Hari Pahlawan",
-    "jenis": "Peringatan Nasional",
-    "keterangan": "Mengenang jasa para pahlawan."
-  },
-  {
-    "tanggal": "2026-12-01",
-    "nama_perayaan": "Hari AIDS Sedunia",
-    "jenis": "Hari Internasional",
-    "keterangan": "World AIDS Day."
-  },
-  {
-    "tanggal": "2026-12-22",
-    "nama_perayaan": "Hari Ibu",
-    "jenis": "Peringatan Nasional",
-    "keterangan": "Penghargaan untuk peran ibu di keluarga dan masyarakat."
+    "tanggal": "2026-12-24",
+    "nama_perayaan": "Cuti Bersama Hari Raya Natal",
+    "jenis": "Cuti Bersama",
+    "keterangan": "Malam Natal."
   },
   {
     "tanggal": "2026-12-25",
     "nama_perayaan": "Hari Raya Natal",
-    "jenis": "Libur Nasional (Keagamaan)",
-    "keterangan": "Perayaan kelahiran Yesus Kristus."
+    "jenis": "Libur Nasional",
+    "keterangan": "Kelahiran Yesus Kristus."
   }
 ]
