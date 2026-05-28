@@ -1,0 +1,20 @@
+[
+  {
+    "tanggal": "2026-06-01",
+    "nama_perayaan": "Hari Lahir Pancasila",
+    "jenis": "Libur Nasional",
+    "keterangan": "Peringatan lahirnya dasar negara."
+  },
+  {
+    "tanggal": "2026-08-17",
+    "nama_perayaan": "Hari Kemerdekaan RI",
+    "jenis": "Libur Nasional",
+    "keterangan": "Proklamasi Kemerdekaan Indonesia."
+  },
+  {
+    "tanggal": "2026-12-25",
+    "nama_perayaan": "Hari Raya Natal",
+    "jenis": "Libur Nasional",
+    "keterangan": "Perayaan Kelahiran Yesus Kristus."
+  }
+]
